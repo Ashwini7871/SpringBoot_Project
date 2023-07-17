@@ -1,0 +1,33 @@
+body {
+  background-image: url("/img/library.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+	
+}
+#form
+{
+  margin-top: 70px;
+  
+border-radius: 10px;
+background-color:#6b3402;
+color: white;
+width:fit-content;
+
+height:fit-content;
+display: inline-block;
+}
+label {
+	color: white;
+        display: inline-block;
+        width: 150px;
+        text-align: right;
+      }
+input{
+	display: inline-block;
+        width:min-content;
+        text-align: right;
+}	
